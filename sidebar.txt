@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kip:home|Door43 (kip)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kip|d43-kip repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kip/archive/master.zip|d43-kip.zip]]
+
+**Recent Changes**
+{{changes>ns = kip}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kip|Ethnologue data]]
+
